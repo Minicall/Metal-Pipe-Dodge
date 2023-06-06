@@ -1,7 +1,7 @@
 # Metal Pipe Dodge
 
 Requirements:
-- python3.6
+- python3.6 or higher
 - python wheels
 - pygame
 - configparser
