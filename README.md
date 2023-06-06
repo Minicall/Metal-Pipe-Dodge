@@ -1,4 +1,3 @@
-# First Python Game
 ### Metal Pipe Dodge
 
 *Requirements:*
